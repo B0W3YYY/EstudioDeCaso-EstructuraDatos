@@ -1,0 +1,19 @@
+# Archivos compilados
+out/
+*.class
+
+# Documento del estudio de caso (se entrega por Moodle, no va en el repositorio)
+documento/
+
+# IntelliJ IDEA: solo se suben los archivos que permiten abrir y ejecutar el proyecto
+.idea/*
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/encodings.xml
+!.idea/runConfigurations/
+
+# Archivos del sistema y de otros editores
+.DS_Store
+Thumbs.db
+.vscode/
+nbproject/
